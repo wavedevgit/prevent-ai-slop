@@ -1,2 +1,3 @@
 # prevent-ai-slop
-This is a repo to attempt to prevent ai slop on your repositories 
+
+An attempt to prevent ai slop on open source repositories
