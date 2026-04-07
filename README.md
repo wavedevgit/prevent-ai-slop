@@ -2,7 +2,7 @@
 
 An attempt to prevent ai slop on open source repositories
 
-# AGENTS.MD method
+# AGENTS.md method
 
 ## How this works
 
@@ -16,7 +16,7 @@ An attempt to prevent ai slop on open source repositories
 
 ## How to use
 
-- Add the all the MarkDown files in this repo to your repo (CLAUDE.md, AGENTS.MD)
+- Add the all the MarkDown files in this repo to your repo (CLAUDE.md, AGENTS.md)
 - That's it!
 
 # Workflow method
