@@ -35,6 +35,7 @@ An attempt to prevent ai slop on open source repositories
 ## How to use
 
 - Add the workflow `./github/workflows/block_aislop_prs.yml` to your repo
+- Add the list of ai authors `./github/workflows/ai_authors.txt`  to your repo
 - Modify it to use your own messages to your likings if you want
 - That's it
 
